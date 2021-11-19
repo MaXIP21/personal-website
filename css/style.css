@@ -1098,7 +1098,7 @@ h2.menu-item:after {
 
 .info-list div {
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 10px;
 }
 
 .progress {
