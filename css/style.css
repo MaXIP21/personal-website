@@ -1168,7 +1168,7 @@ h2.menu-item:after {
     position: absolute;
     top: 50px;
     width: 1px;
-    height: 75%;
+    height: 90%;
 }
 
 .timeline:after {
