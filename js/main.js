@@ -238,6 +238,6 @@
         iconAnchor: [15, 15]
     });
 
-    L.marker([40.6700, -73.9400], { icon: icon }).addTo(mymap);
+    L.marker([47.4789792, 19.08464], { icon: icon }).addTo(mymap);
 
 })(jQuery);
