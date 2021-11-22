@@ -221,7 +221,7 @@
 
     //Leaflet Map
 
-    var mymap = L.map('map').setView([47.4789792, 19.08464], 14);
+    var mymap = L.map('map').setView([47.479038279990164, 19.084648869189177], 14);
 
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
         maxZoom: 18,
@@ -238,6 +238,6 @@
         iconAnchor: [15, 15]
     });
 
-    L.marker([47.4789792, 19.08464], { icon: icon }).addTo(mymap);
+    L.marker([47.479038279990164, 19.084648869189177], { icon: icon }).addTo(mymap);
 
 })(jQuery);
