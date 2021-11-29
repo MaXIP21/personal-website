@@ -131,12 +131,10 @@ p {
 
 ul {
     list-style: none;
-    padding-left: 0;
 }
 
 ul.list_circle li{
     list-style: circle;
-    padding-left: initial;
   }
 
 strong,
@@ -1004,6 +1002,7 @@ h2.menu-item:after {
 .social {
     position: absolute;
     bottom: 15%;
+    padding-left: 0px;
 }
 
 .social li {
