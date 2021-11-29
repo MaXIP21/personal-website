@@ -134,6 +134,10 @@ ul {
     padding-left: 0;
 }
 
+.post_body ul.list{
+    list-style-type: circle;
+  }
+
 strong,
 small {
     color: #333;
