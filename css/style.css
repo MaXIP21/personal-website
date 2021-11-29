@@ -136,7 +136,7 @@ ul {
 
 ul.list_circle li{
     list-style: circle;
-    padding-left: 10px;
+    padding-left: initial;
   }
 
 strong,
