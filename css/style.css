@@ -135,7 +135,7 @@ ul {
 }
 
 ul.list_circle{
-    list-style-type: circle;
+    list-style: circle;
   }
 
 strong,
